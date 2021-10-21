@@ -21,3 +21,10 @@
     </style>
 
 -->
+
+### Algumas alterações
+
+ - ìcones de redes sociais substituídos (Precisei usar alguns no fomrato png)
+ - inserção de logo doWhile, com link apontando para página de inscrição do evento
+ - alteração do background com inserção do logo do evento oficial da Rocketseat
+ - adição de footer
