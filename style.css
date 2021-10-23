@@ -19,10 +19,10 @@
 }
 
 main {
-   background: url(images/backgroundbg.svg);
-   width: 375px;
-   height: 812px;
-
+   background: url(images/backgroundbg.svg) no-repeat center/cover;
+   width: 100vw;
+   min-height: 812px;
+    height: 100vh;
    color: var(--gray);
    border-radius: 1rem;
 }
